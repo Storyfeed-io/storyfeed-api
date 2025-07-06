@@ -91,7 +91,7 @@
 			"response": []
 		},
 		{
-			"name": "New Request",
+			"name": "demosite",
 			"id": "6805651-41442577-d9c6-4aa7-bc62-16880a351206",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
